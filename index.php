@@ -9,11 +9,12 @@
 <body>
 
     <div id="Login">
-        <h1>Bem vindo</h1>
+        
+    <h1>Bem vindo</h1>
 
         <div class="email">
 
-            <form method="post" action="cadastro.php">
+
 
             <input type="email" id="email" name="email">
 
@@ -23,9 +24,11 @@
 
         <input type="password" id="senha" name="senha">
 
-        <br><br>
+        <br>    <br>
 
-        <input type="submit" value="Entrar">
+                <form method="post" action="index.php">
+
+            <input type="submit" value="Entrar">
 
     </form>
 
@@ -33,4 +36,4 @@
 
 </body>
 
-</html>
+</html
