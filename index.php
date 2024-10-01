@@ -9,20 +9,20 @@
 <body>
 
     <div id="Login">
-        
+
     <h1>Bem vindo</h1>
 
         <div class="email">
 
 
 
-            <input type="email" id="email" name="email">
+           Email: <input type="email" id="email" name="email">
 
         </div id="login">
 
         <br>
 
-        <input type="password" id="senha" name="senha">
+        Senha: <input type="password" id="senha" name="senha">
 
         <br>    <br>
 
@@ -36,4 +36,4 @@
 
 </body>
 
-</html
+</html>
